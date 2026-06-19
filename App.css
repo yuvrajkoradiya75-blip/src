@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.header,
+.footer {
+  background-color: #0077cc;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
+.profile,
+.skills {
+  background: white;
+  width: 60%;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 2px 8px rgba(0,0,0,0.2);
+}
+
+ul {
+  list-style-type: square;
+}
